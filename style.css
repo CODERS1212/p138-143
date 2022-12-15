@@ -1,0 +1,19 @@
+body
+{
+background-size: cover;
+}
+
+#header{
+    background-color: burlywood;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+#rules{
+    background-color: blanchedalmond;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bolder;
+    float: right;
+}
